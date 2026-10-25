@@ -64,7 +64,7 @@ fn main() {
 }
 
 #[cfg(test)]
-mod tests {
+mod tests {  
     use super::*;
     #[test]
     fn test_default() {
